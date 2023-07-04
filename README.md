@@ -199,4 +199,4 @@ All the above options work well together. (not done)
 
 ## Authors &copy;
 
-- @ZEYAD-8
+- [Zeyad Elnaggar](https://github.com/ZEYAD-8/)
